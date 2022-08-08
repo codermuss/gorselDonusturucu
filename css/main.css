@@ -1,0 +1,10 @@
+body{
+    background-image: url("../img/bg.jpg")!important;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.title{
+    position: center;
+}
